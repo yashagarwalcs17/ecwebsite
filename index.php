@@ -196,11 +196,167 @@
 
 	<div id="content" class="container">
 		<div class="row">
-			<div class="col-sm-4 col-sm-6 single">
-				<div class="product"></div>
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
 			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
+			<!-- product start -->
+			<div class="col-sm-3 col-sm-6 single">
+				<div class="product">
+					<a href="details.php">
+						<img src="admin_area/product_images/shirt1.jpg" class="img-responsive">
+					</a>
+					<div class="text">
+						<h3><a href="details.php">Grey Polo Shirts</a></h3>
+						<p class="price">INR 299</p>
+						<p class="buttons">
+							<a href="details.php" class="btn btn-default">View Details</a>
+							<a href="details.php" class="btn btn-primary">
+								<i class="fa fa-shopping-cart"></i>Add to cart
+							</a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!-- product end -->
 		</div>
 	</div>
+
+	<!--footer start -->
+	<?php 
+		include('admin_area/includes/footer.php');
+	?>
+	<!-- footer end -->
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 </body>
 </html>
